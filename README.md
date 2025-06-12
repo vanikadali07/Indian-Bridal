@@ -50,7 +50,7 @@ Traditional yet minimal UI, balancing heritage and modernity
 🔗 https://vanikadali07.github.io/Indian-Bridal/
 
 📂 GitHub Repository:
-🔗 https://github.com/vanikadali07/Indian-Bridal/edit/master/README.md
+🔗 https://github.com/vanikadali07/Indian-Bridal
 
 💡 Key Takeaways:
 "Bridal style is not just fashion — it's heritage, emotion, and identity wrapped in silk and gold."
